@@ -3,7 +3,10 @@ Rencana Kedepan
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur data dasar
 - PHP framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
